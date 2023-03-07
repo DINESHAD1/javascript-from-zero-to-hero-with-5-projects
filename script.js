@@ -1,0 +1,2 @@
+/* write javascript code for taking input from the user and 
+display the input what you entered in that  */

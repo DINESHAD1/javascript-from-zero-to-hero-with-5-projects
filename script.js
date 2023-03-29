@@ -1,5 +1,5 @@
+//write a piece of code to check what is grade of student 
 
-let number1 = 100
-let number2 = 200
+let student1 = 80
 
-//write the code below
+//take above variable as a refrence and write code grade 

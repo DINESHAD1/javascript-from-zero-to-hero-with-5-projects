@@ -1,5 +1,3 @@
-
-let number1 = 100
-let number2 = 200
-
 //write the code below
+
+let array = [1,2,3,4,5]

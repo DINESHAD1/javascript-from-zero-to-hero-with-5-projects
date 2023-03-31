@@ -1,1 +1,3 @@
-//write the code below
+let string1 = "Hello javascript1"
+
+//write code below
